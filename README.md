@@ -199,7 +199,7 @@ void lcd_display(){
 	Lcd_cursor(&lcd,0,1);
 	Lcd_string(&lcd,"RIYA P L \n");
 	Lcd_cursor(&lcd,1,1);
-	Lcd_string(&lcd,"212223240141\n");
+	Lcd_string(&lcd,"212223040146\n");
 }
 void SystemClock_Config(void)
 {
@@ -264,7 +264,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-![image](https://github.com/user-attachments/assets/ba0c9aa0-ce40-4b9d-91a7-36460b929535)
+![WhatsApp Image 2025-06-03 at 18 09 59_18c9c8a3](https://github.com/user-attachments/assets/63ef5b24-c8aa-4ca4-a94c-1bfac48434a3)
+
 
  
  
